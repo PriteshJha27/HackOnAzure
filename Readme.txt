@@ -1,4 +1,4 @@
-Steps can be followed via the report as well. 
+Steps can be followed via the report "HackOnAzure_Pritesh&Gaurav"as well. 
 To break it down in simple steps, the project is made as follows:
 
 1. Dataset used from Azure Data lake on covid 19
