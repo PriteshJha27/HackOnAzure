@@ -4,3 +4,8 @@ To break it down in simple steps, the project is made as follows:
 1. Dataset used from Azure Data lake on covid 19
 2. Used Azure Jupyter notebooks to analyse and ML services to create prediction model and the dash app.
 3. Used Docker container registry and Azure Web app to deploy the Application to web.
+
+
+Web App: https://azure-dash-test.azurewebsites.net/
+
+Notebook: https://covid19priteshjha27.notebooks.azure.com/j/notebooks/Analysis_Notebook.ipynb
