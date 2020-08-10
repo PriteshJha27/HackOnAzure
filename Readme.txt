@@ -8,4 +8,3 @@ To break it down in simple steps, the project is made as follows:
 
 Web App: https://azure-dash-test.azurewebsites.net/
 
-Notebook: https://covid19priteshjha27.notebooks.azure.com/j/notebooks/Analysis_Notebook.ipynb
