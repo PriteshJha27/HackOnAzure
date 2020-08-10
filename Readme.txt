@@ -6,5 +6,6 @@ To break it down in simple steps, the project is made as follows:
 3. Used Docker container registry and Azure Web app to deploy the Application to web.
 
 
+Analysis and Dashboard files can be accessed via Jupyter Notebooks.
 Web App: https://azure-dash-test.azurewebsites.net/
 
